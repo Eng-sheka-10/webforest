@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://i.pinimg.com/736x/73/7a/fc/737afc838a044a4e5d33258db9ecebdb.jpg);
+    background-image: url(https://i.pinimg.com/736x/10/07/fd/1007fda69f72ad76ef9494ef53c6740d.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,9 +15,9 @@ h1 {
 
 p {
     text-align: center;
-    padding: 10px 10px 10px 10px;
+    padding: 5px 5px 5px 5px;
     color: aliceblue;
-    font-size: 25px;
+    font-size: 20px;
     font-style: bold;
 }
 
@@ -41,5 +41,5 @@ video {
     /* عرض الصورة */
     height: auto;
     /* الحفاظ على نسبة الأبعاد */
-    margin: 15pt;
+    margin: 10pt;
 }
